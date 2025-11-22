@@ -1,23 +1,35 @@
-<h1 align="center">root@suanggiLaut:~# whoami</h1>
+<h1 align="center">root@suanggiLaut:~# ./init_sequence</h1>
 
 <p align="center">
-  <img src="./white-gorilla.jpg" height="200" alt="White Gorilla Avatar" style="border-radius: 50%; border: 3px solid #00FF00;">
+  <img src="./white-gorilla.jpg" height="200" alt="White Gorilla Avatar" style="border-radius: 50%; border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00;">
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Penetration+Tester;Cyber+Security+Enthusiast;CTF+Player;PHP+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Breach+Detected...;Initializing+SuanggiLaut+Protocol...;Subject:+Penetration+Tester;Target:+Secure+Everything" alt="Typing SVG" /></a>
 </p>
 
 <br>
 
 ```bash
-# System Status: ONLINE 🟢
-# Identity: suanggiLaut
+┌──(root💀suanggiLaut)-[~/knowledge_base]
+└─$ ./display_profile.py --verbose
 
-> ./display_info.sh
+[!] INJECTING PAYLOAD... 100% [████████████████████]
 
-[+] Current Operation ....... Developing Security Tools
-[+] Collaboration ........... Open for CTF Teammates & Red Teaming
-[+] Learning Status ......... Advanced Exploitation Techniques
-[+] Communication ........... Encrypted channels only (Ask me!)
-[+] Fun Fact ................ I view the world in Hexadecimal
+> USER_META_DATA:
+  ---------------------------------------------------
+  [+] Target Name ....... SuanggiLaut
+  [+] Role .............. Red Teamer / CTF Player
+  [+] Location .......... /dev/null (Hidden)
+  [+] Languages ......... PHP, Python, Bash
+  ---------------------------------------------------
+
+> ACTIVE_MISSIONS:
+  [*] Exploring ......... 0-Day Vulnerabilities
+  [*] Building .......... Automation Attack Tools
+  [*] Listening ......... For new opportunities
+
+> ENCRYPTED_MESSAGE:
+  "The quieter you become, the more you are able to hear."
+  
+└─$ _
