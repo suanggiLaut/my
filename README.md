@@ -21,3 +21,5 @@
 [+] Learning Status ......... Advanced Exploitation Techniques
 [+] Communication ........... Encrypted channels only (Ask me!)
 [+] Fun Fact ................ I view the world in Hexadecimal
+
+<h3 align="center">🛠️ Arsenal (Tech Stack)</h3> <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali-268BEE%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" /> </p>
