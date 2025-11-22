@@ -16,8 +16,8 @@
 
 > CURRENT STATUS:
   ---------------------------------------------------
-  [⚡] FOCUS ......... Penetration Testing & Red Teaming
-  [👾] CODE .......... PHP / Python / Bash Scripting
+  [⚡] FOCUS ......... Penetration Testing & Red Teaming & fullstack dev
+  [👾] CODE .......... PHP / Python / Bash Scripting / c++
   [🎯] CTF ........... Active Participant
   ---------------------------------------------------
   
