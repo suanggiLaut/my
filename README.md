@@ -1,44 +1,23 @@
-### Opsi 2: The "Glitch & Stats" Style (Modern & Visual)
-
-Gaya ini menggunakan statistik GitHub dengan tema gelap dan efek visual yang lebih modern. Cocok jika kamu ingin memamerkan aktivitas codingmu.
-
-**Copy kode di bawah ini:**
-
-```markdown
-<h1 align="center">⚠️ System Compromised by suanggiLaut ⚠️</h1>
+<h1 align="center">root@suanggiLaut:~# whoami</h1>
 
 <p align="center">
-  <img src="./white-gorilla.jpg" height="250" alt="White Gorilla Avatar" style="border-radius: 15px; filter: grayscale(100%);">
+  <img src="./white-gorilla.jpg" height="200" alt="White Gorilla Avatar" style="border-radius: 50%; border: 3px solid #00FF00;">
 </p>
 
 <p align="center">
-  <i>"Secure your code, or I'll secure it for you."</i>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Penetration+Tester;Cyber+Security+Enthusiast;CTF+Player;PHP+Developer" alt="Typing SVG" /></a>
 </p>
-
----
-
-### 🕵️ Intel Report (About Me)
-
-<table>
-  <tr>
-    <td valign="center">
-      <ul>
-        <li>🔭 <b>Target:</b> Building automated pentest tools.</li>
-        <li>🌱 <b>Injecting Knowledge:</b> Advanced Web Exploitation.</li>
-        <li>👯 <b>Handshake:</b> Looking for blue teamers to spar with.</li>
-        <li>💬 <b>Ping me about:</b> Vulnerability assessment & PHP Security.</li>
-        <li>⚡ <b>Payload:</b> Coffee turns into code.</li>
-      </ul>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suanggiLaut&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <br>
 
-### 📡 Network Activity
-<p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suanggiLaut&theme=highcontrast&hide_border=true" alt="suanggiLaut" />
-</p>
+```bash
+# System Status: ONLINE 🟢
+# Identity: suanggiLaut
+
+> ./display_info.sh
+
+[+] Current Operation ....... Developing Security Tools
+[+] Collaboration ........... Open for CTF Teammates & Red Teaming
+[+] Learning Status ......... Advanced Exploitation Techniques
+[+] Communication ........... Encrypted channels only (Ask me!)
+[+] Fun Fact ................ I view the world in Hexadecimal
