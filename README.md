@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm suanggiLaut 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/Jan2kHwTf4kAAAAC/monkey-developer.gif" height="250" alt="Gorilla Coding Furiously">
+  <img src="./white-gorilla.jpg" height="250" alt="White Gorilla Avatar" style="border-radius: 15px;">
 </p>
 
 <br>
