@@ -1,29 +1,34 @@
 <div align="center">
-
-  <img src="./white-gorilla.jpg" height="160" alt="Avatar" style="border-radius: 50%; border: 2px solid #4af626; box-shadow: 0 0 15px rgba(74, 246, 38, 0.4);">
-
-  <br><br>
-
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cybersecurity/cybersecurity.png"> <b>SuanggiLaut</b> // Security Research & Development</code>
-
+  <img src="./white-gorilla.jpg" height="150" alt="Avatar" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3>👨‍💻 SuanggiLaut.php</h3>
 </div>
 
 <br>
 
-```zsh
-➜  ~  whoami
-suanggiLaut
+```php
+<?php
 
-➜  ~  cat profile.conf
+namespace CyberSecurity;
 
-# --- SYSTEM IDENTITY ---
-user_role      = "Penetration Tester"
-current_status = "Online"
-location       = "Encrypted"
+class SuanggiLaut extends PenetrationTester {
 
-# --- ACTIVE MODULES ---
-[✔] PHP_Development    [#########-] 90%
-[✔] Network_Security   [#######---] 75%
-[✔] CTF_Operations     [Active]
+    const STATUS = 'Hunting Bugs';
+    
+    public $skills = [
+        'Language' => ['PHP', 'Python', 'Bash'],
+        'Tools'    => ['Burp Suite', 'Metasploit', 'Wireshark'],
+        'Focus'    => 'Web Application Security'
+    ];
 
-➜  ~  echo "Reach me out for collaboration."
+    public function __construct() {
+        $this->learn("Exploitation");
+        $this->collaborate("Open");
+    }
+
+    public function getGoal() {
+        return "Securing the digital ocean.";
+    }
+}
+
+// Output: Ready to collaborate
+?>
