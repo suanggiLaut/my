@@ -1,24 +1,29 @@
-<h1 align="center">root@suanggiLaut:~# ./engage_system</h1>
+<div align="center">
 
-<p align="center">
-  <img src="./white-gorilla.jpg" height="180" alt="Avatar" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 35px #00FF00, inset 0 0 10px #00FF00;">
-</p>
+  <img src="./white-gorilla.jpg" height="160" alt="Avatar" style="border-radius: 50%; border: 2px solid #4af626; box-shadow: 0 0 15px rgba(74, 246, 38, 0.4);">
+
+  <br><br>
+
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cybersecurity/cybersecurity.png"> <b>SuanggiLaut</b> // Security Research & Development</code>
+
+</div>
+
 <br>
 
-```bash
-┌──(root💀suanggiLaut)-[~]
-└─$ netstat -ano | grep ESTABLISHED
+```zsh
+➜  ~  whoami
+suanggiLaut
 
-[+] PROTOCOL ............... TCP / Encrypted
-[+] LOCAL ADDRESS .......... 127.0.0.1:1337
-[+] FOREIGN ADDRESS ........ [TARGET_REDACTED]
-[+] STATE .................. ESTABLISHED 🟢
+➜  ~  cat profile.conf
 
-> CURRENT STATUS:
-  ---------------------------------------------------
-  [⚡] FOCUS ......... Penetration Testing & Red Teaming
-  [👾] CODE .......... PHP / Python / Bash Scripting
-  [🎯] CTF ........... Active Participant
-  ---------------------------------------------------
+# --- SYSTEM IDENTITY ---
+user_role      = "Penetration Tester"
+current_status = "Online"
+location       = "Encrypted"
 
-└─$ _
+# --- ACTIVE MODULES ---
+[✔] PHP_Development    [#########-] 90%
+[✔] Network_Security   [#######---] 75%
+[✔] CTF_Operations     [Active]
+
+➜  ~  echo "Reach me out for collaboration."
