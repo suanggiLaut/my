@@ -3,22 +3,27 @@
 <p align="center">
   <img src="./white-gorilla.jpg" height="180" alt="Avatar" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 35px #00FF00, inset 0 0 10px #00FF00;">
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 <br>
 
 ```bash
 ┌──(root💀suanggiLaut)-[~]
 └─$ whois suanggiLaut
 
+# Querying Identity Database...
 Name:        SuanggiLaut
 Role:        Red Teamer & Fullstack Developer
 Orbit:       Cyber Security / Web Exploitation
 Status:      Online 🟢
 
-┌──(root💀suanggiLaut)-[~/suanggi]
+┌──(root💀suanggiLaut)-[~/arsenal]
 └─$ ls -la
 
 drwxr-x---  root root  4096  .
-drwxr-x---  root root  4096  ..
 -rwxr-x---  root root  2048  exploit.py
 -rwxr-x---  root root  4096  backend.php
 -rwxr-x---  root root  1024  automation.sh
