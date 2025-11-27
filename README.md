@@ -11,7 +11,7 @@
 <br>
 
 ```bash
-┌──(root💀suanggiLaut)-[~]
+┌──(root@suanggiLaut)-[~]
 └─$ whois suanggiLaut
 
 Name:        SuanggiLaut
@@ -19,7 +19,7 @@ Role:        Red Teamer & Fullstack Developer
 Orbit:       Cyber Security / Web Exploitation
 Status:      Online 🟢
 
-┌──(root💀suanggiLaut)-[~/suanggi]
+┌──(root@suanggiLaut)-[~/suanggi]
 └─$ ls -la
 
 drwxr-x---  root root  4096  .
@@ -28,7 +28,7 @@ drwxr-x---  root root  4096  .
 -rwxr-x---  root root  1024  automation.sh
 -rwxr-x---  root root  3050  system_core.cpp
 
-┌──(root💀suanggiLaut)-[~/tasks]
+┌──(root@suanggiLaut)-[~/tasks]
 └─$ ps aux --sort=-%cpu | grep "active"
 
 USER       PID  %CPU %MEM  COMMAND
@@ -36,5 +36,5 @@ root      1337  80.0  0.5  ./penetration_testing --target=all
 root      1338  15.0  0.2  ./fullstack_dev --stack=lamp
 root      1339   5.0  0.1  ./ctf_player --mode=aggressive
 
-┌──(root💀suanggiLaut)-[~]
+┌──(root@suanggiLaut)-[~]
 └─$ _
